@@ -1,7 +1,7 @@
 <!-- README.md - 九千海 GitHub 主页 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=九千海%20·%20JiuQianHai&fontAlignY=35&fontSize=40&desc=认知驾驭风险&descAlignY=55&descAlign=50" alt="banner" />
+  
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 ---
 
 ### 🧭 关于我
-> **九千海** — 认知驾驭风险  
+> **梨花海** — 认知驾驭风险  
 
 - 💡 专注于前端工程与视觉交互  
 - ⚙️ 擅长 Vue3 / Vite / Node.js / PostgreSQL  
@@ -49,18 +49,18 @@
 
 
 ### 🪶 格言
-> “代码是思维的投影，风险是认知的边界。”  
-> —— 九千海
+> “认知驾驭风险”  
+> —— 梨花海
 
 ---
 
 ### 📫 联系我
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 邮箱: your@email.com *(可选)*
-- 博客（可选）: https://your-site.example.com  
+
+- 邮箱: s744129991@outlook.com
+- 博客: https://haiy.space  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
 </p>

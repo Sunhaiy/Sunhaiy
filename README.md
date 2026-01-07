@@ -1,16 +1,5 @@
 <!-- README.md - 九千海 GitHub 主页 -->
 
-<p align="center">
-  
-</p>
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=关注者&style=social)](https://github.com/YOUR_USERNAME)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social)](https://github.com/YOUR_USERNAME)
-
-</div>
-
 ---
 
 ### 🧭 关于我

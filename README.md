@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Things I’m building
+##  Things I’m building
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |

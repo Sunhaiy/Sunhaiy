@@ -1,25 +1,85 @@
-### ✨ 素心
+<div align="center">
 
-吉他 · 游戏 · 动漫 · 忧郁 · 硬件 · 软件 · 魔 · 神 · 仙 · 鬼
+# ✨ Sunhaiy / 素心
+
+喜欢折腾一些有意思的东西。  
+写博客、做 App、造工具、学 AI，人创造的东西，就没有不能被改变的。
 
 <p>
   <a href="https://haiy.space/">
-    <img src="https://img.shields.io/badge/Personal%20Blog-haiy.space-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-haiy.space-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sunhaiy/Reflex">
+    <img src="https://img.shields.io/badge/Project-Reflex-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-### ️ Arsenal（技术栈）
+</div>
 
-| **Frontend** | **Backend** | **Engineering** |
-| :---: | :---: | :---: |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-0B1120?style=flat-square&logo=tailwindcss&logoColor=38B2AC) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+---
 
-### Mission Log（项目部署）
+## 🌙 About
 
-| Project | Type | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **Frozen** | [Personal Blog](https://haiy.space/) | `Vue3` `Vite` | ![Live](https://img.shields.io/badge/Online-success?style=flat-square) |
-| **藏青 app** | Mobile App | `Kotlin` `Android` | ![Dev](https://img.shields.io/badge/In%20Dev-orange?style=flat-square) |
-| **ssh** | Utility / Tool | `Shell` `Config` | ![Tools](https://img.shields.io/badge/Utility-blue?style=flat-square) |
+我平时会做一些自己真正想用的东西。
 
-> 独立思考
+有时候是一个个人博客，  
+有时候是一个 Android App，  
+有时候是一个服务器工具，  
+有时候也会从零写一个小模型，看看 AI 到底是怎么“学会”的。
+
+现在比较感兴趣的是：
+
+- AI 工具和 Agent
+- 桌面软件 / 开发者工具
+- 各种网络代理
+- 逆向
+- 个人博客和内容系统
+- 吉他
+- 从零理解神经网络和大模型
+
+---
+
+## 🚀 Things I’m building
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Reflex](https://github.com/Sunhaiy/Reflex)** | 一个 AI 原生的 SSH 桌面工具。想把终端、文件管理、Docker、服务器监控和 AI 助手放在一起。 | `Electron` `React` `TypeScript` `Tailwind` |
+| **[Suxin Blog](https://github.com/Sunhaiy/suxin-blog)** | 我的个人博客和内容系统，用来放文章、瞬间、作品、相册和一些乱七八糟的想法。 | `Next.js` `React` `PostgreSQL` `Tailwind` |
+| **[Reflex Web](https://github.com/Sunhaiy/reflexweb)** | Reflex 的官网页面，主要用来展示产品、下载和介绍功能。 | `HTML` `CSS` `JavaScript` |
+| **[Hysteria2](https://github.com/Sunhaiy/hysteria2)** | 一个 Hysteria 2 多用户会员管理系统，包含后台、用户端、流量同步和节点套餐管理。 | `Next.js` `NestJS` `Prisma` |
+| **[Qinghan App](https://github.com/Sunhaiy/qinghanapp)** | 一个 Android 社交内容 App，包含发帖、收藏、私信、通知和个人主页。 | `Kotlin` `Jetpack Compose` |
+| **[LLM From Scratch](https://github.com/Sunhaiy/llm)** | 从零写一个小型 Transformer / MiniGPT，用来理解大模型的底层原理。 | `Python` `PyTorch` |
+
+---
+
+## 🛠 Tech I use
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind-0B1120?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Recently
+
+```txt
+Reflex      -> 想做一个真正好用的 AI SSH 工具
+Blog        -> 慢慢把自己的内容系统搭起来
+App         -> 学 Android，也做一点自己想象中的产品
+LLM         -> 从零写模型，理解 AI 是怎么工作的
+📝 Blog
+
+一些项目记录、技术学习、设计想法和日常碎片会放在这里：
+
+https://haiy.space/
+
+做点自己喜欢的东西。

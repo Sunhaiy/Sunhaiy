@@ -65,9 +65,9 @@
 ## 🧩 Recently
 
 ```txt
-Reflex      -> 想做一个真正好用的 AI SSH 工具
-Blog        -> 慢慢把自己的内容系统搭起来
-App         -> 学 Android，也做一点自己想象中的产品
+Reflex      -> 自然语言操作shell
+Blog        -> 素心blog已完成并上线
+App         -> laisheng一个小社区app
 LLM         -> 神经网络已经轻松拿捏
 📝 Blog
 
